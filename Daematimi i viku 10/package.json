@@ -1,0 +1,20 @@
+{
+  "name": "punchapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sigmar14 & quang14",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.4.2",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.10",
+    "mongoose": "^4.6.5",
+    "node-uuid": "^1.4.7",
+    "uuid": "^2.0.3"
+  }
+}
